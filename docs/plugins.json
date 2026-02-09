@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Typecho-SEO",
+    "description": "站点 SEO 优化插件，自动生成 meta、sitemap 和结构化数据",
+    "author": "作者A",
+    "tags": ["seo","sitemap","meta"],
+    "url": "https://github.com/example/typecho-seo"
+  },
+  {
+    "name": "Comment-Plus",
+    "description": "增强评论功能：@提醒、表情和反垃圾",
+    "author": "作者B",
+    "tags": ["comment","anti-spam"],
+    "url": "https://github.com/example/comment-plus"
+  },
+  {
+    "name": "Image-Optimizer",
+    "description": "图片延迟加载与压缩，支持 WebP 格式转换",
+    "author": "作者C",
+    "tags": ["image","optimization","webp"],
+    "url": "https://github.com/example/image-optimizer"
+  }
+]
